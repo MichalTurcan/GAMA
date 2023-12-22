@@ -246,6 +246,10 @@ section h1::first-letter {
     transform: scale(1.3);
 }
 
+#statut iframe{
+    overflow: auto;
+}
+
 @media (max-width: 990px) {
     #statut {
         width: 100%;
